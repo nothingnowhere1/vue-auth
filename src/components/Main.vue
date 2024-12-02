@@ -1,7 +1,6 @@
 <template>
   <div class="main-page">
-    <h2>Main Page</h2>
-    <p>Welcome to the main page!</p>
+    <p>УРАУРАРУРАРАРАРУРРА ПРОШЛИПРОВЕРКУ</p>
   </div>
 </template>
 

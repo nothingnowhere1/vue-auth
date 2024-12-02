@@ -38,8 +38,26 @@ export default {
 </script>
 
 <style scoped>
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
 .error-message {
   color: red;
   margin-top: 10px;
+}
+input {
+  width:200px;
+  border-radius:30px;
+  padding:10px 20px 10px 20px;
+  border:none;
+  box-shadow: 0 5px 7px 2px black;
+}
+button {
+  color:white;
+  background-color:blue;
+  padding: 10px 20px 10px 20px;
+  border-radius:20px;
 }
 </style>
